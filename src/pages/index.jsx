@@ -17,7 +17,7 @@ import Projects from '../views/Projects'
 import About from '../views/About'
 import Contact from '../views/Contact'
 
-import avatar from '../images/avatar1.jpg'
+import avatar from '../images/avatar.jpg'
 
 const ProjectsWrapper = styled.div`
   ${tw`flex flex-wrap justify-between mt-8`};
@@ -63,7 +63,7 @@ const Index = () => (
     <Parallax pages={5}>
       <Hero offset={0}>
         <BigTitle>
-          Hello, <br /> I'm Julia Salacinska.
+          Hello, <br /> I'm Sonia Rewiakin.
         </BigTitle>
         <Subtitle>I'm passionate content writer and creative copy expert for consumer-facing companies.</Subtitle>
       </Hero>
@@ -103,7 +103,7 @@ const Index = () => (
       <About offset={3}>
         <Title>About me</Title>
         <AboutHero>
-          <Avatar src={avatar} alt="Julia Salacinska" />
+          <Avatar src={avatar} alt="Sonia Rewiakin" />
           <AboutSub>
             The Russian and Polish languages can not fully capture the depth and complexity of my thoughts. So I'm incorporating
             Emoji into my speech to better express myself. Winky face.

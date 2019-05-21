@@ -65,8 +65,7 @@ const Index = () => (
         <BigTitle>
           Hello, <br /> I'm Sonia Rewiakin.
         </BigTitle>
-        <Subtitle>Ich liebe es zu malen und mein Hobby ist Querflöte zu spielen. <br>
-        Ich interessiere mich sehr für das Universum mag lesen und alles was mit Katzen zu tun hat.
+        <Subtitle>Ich liebe es zu malen und mein Hobby ist Querflöte zu spielen. Ich interessiere mich sehr für das Universum mag lesen und alles was mit Katzen zu tun hat.
         </Subtitle>
       </Hero>
       <Projects offset={1}>
